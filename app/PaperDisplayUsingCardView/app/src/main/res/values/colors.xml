@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="buttontext">#ffffff</color>
+    <color name="lable">#2699FB</color>
+    <color name="QueationaPaperLable">#2D16F0</color>
+    <color name="QueationNumber">#F30816</color>
+    <color name="Question">#000000</color>
+</resources>
